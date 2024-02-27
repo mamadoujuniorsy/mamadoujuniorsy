@@ -24,7 +24,6 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/mamadoujuniorsy)](https://github.com/mamadoujuniorsy) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/mamadoujuniorsy)](https://github.com/mamadoujuniorsy) 
 [![Tailwind](https://img.shields.io/badge/-Tailwind-563D7C?style=flat&logo=tailwind&link=https://github.com/mamadoujuniorsy)](https://github.com/mamadoujuniorsy) 
-
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/mamadoujuniorsy)](https://github.com/mamadoujuniorsy) 
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/mamadoujuniorsy)](https://github.com/mamadoujuniorsy) 
